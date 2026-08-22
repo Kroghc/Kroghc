@@ -19,8 +19,3 @@
 000   00                0000000000000
  00  00                 0000000000000
   000                    000000000000
-
-### Connect with me:
-<a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/459268741138612226.png" alt="discord"/></a>
-[<img align="left" alt="Discord" width="22px" src="https://icons.getbootstrap.com/assets/icons/discord.svg" />][discord]
-[discord]: https://discord.gg/ZE5CY8yd2J
