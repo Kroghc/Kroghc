@@ -18,3 +18,7 @@
                                                    000   00                0000000000000                     
                                                     00  00                 0000000000000                     
                                                      000                    000000000000                     
+```
+### Connect with me:
+[<img align="left" alt="upload.systems" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Discord" width="22px" src="https://icons.getbootstrap.com/assets/icons/discord.svg" />][discord]
