@@ -22,3 +22,6 @@
 ### Connect with me:
 [<img align="left" alt="upload.systems" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Discord" width="22px" src="https://icons.getbootstrap.com/assets/icons/discord.svg" />][discord]
+
+[website]: https://clint-krogh.my.canva.site/
+[discord]: https://discord.gg/ZE5CY8yd2J
