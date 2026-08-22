@@ -1,4 +1,5 @@
-```diff
+```HTML
+<pre style="color: #38bdf8; font-family: monospace; line-height: 1.2;">
 $ celefetch
                           
                           000000000    000000000000
@@ -20,4 +21,4 @@ $ celefetch
                           000   00                0000000000000
                            00  00                 0000000000000
                             000                    000000000000
-
+</pre>
