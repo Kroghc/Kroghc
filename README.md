@@ -1,10 +1,10 @@
-```html
-<pre style="color: #38bdf8; font-family: monospace; line-height: 1.2;">     
+
+ 
 000000000    000000000000
 00000000    0000000000
 0000000    000000000
-0000000  000000000
-000000  00000000
+0000000  000000000                                        ### Connect with me:
+000000  00000000                                           [<img align="left" alt="Discord" width="22px" src="https://icons.getbootstrap.com/assets/icons/discord.svg" />][discord]
 00000  00000000
 0000  0000000
 000  0000000
@@ -19,4 +19,5 @@
 000   00                0000000000000
  00  00                 0000000000000
   000                    000000000000
-</pre>
+
+[discord]: https://discord.gg/ZE5CY8yd2J
